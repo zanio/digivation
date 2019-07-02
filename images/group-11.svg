@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="264" height="30" viewBox="0 0 264 30">
+    <g fill="none" fill-rule="evenodd">
+        <text fill="#000" font-family="Orbitron-Bold, Orbitron" font-size="34" font-weight="bold" transform="translate(0 -6)">
+            <tspan x="43" y="33">DIGIVATION</tspan>
+        </text>
+        <g fill="#F00">
+            <path fill-opacity=".5" d="M.5 17h13v13H.5z"/>
+            <path d="M16.5 17h13v13h-13zM16.5 0h13v13h-13z"/>
+        </g>
+    </g>
+</svg>
